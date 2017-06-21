@@ -1,0 +1,13 @@
+{
+    "name": "QHSE Conseil",
+    "description": "Consultancy and training cabinet in Quality, Occupational Health and Safety and in Environment in Djerba Midoun. QHSE Conseil provides support for ISO 9001, OHSAS 18001 and ISO 14001 implementation and certification.",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "TangoRythm",
+        "url": "http://www.tangorythm.com"
+    },
+	"icons": {
+		"128": "/images/QHSE-128.jpg"
+    },
+    "default_locale": "en"
+}
